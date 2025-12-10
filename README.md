@@ -1,4 +1,4 @@
-# Python-skills
+# Skills in Python
 ## Different projects for Python
 ### Project 1
 
