@@ -1,4 +1,4 @@
-# Skills in Python
+# Data skills in Python
 ## Different projects for Python
 ### Project 1
 
